@@ -77,7 +77,7 @@
     ),
     url(./img/bg3.jpg);
   background-size: cover;
-  height: 75vh;
+  height: 74vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
